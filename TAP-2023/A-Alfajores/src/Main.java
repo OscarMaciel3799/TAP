@@ -1,45 +1,31 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
 
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int N = Integer.parseInt(st.nextToken()); // viajes
-        int M = Integer.parseInt(st.nextToken()); // oficinas
+        Scanner scanner=new Scanner(System.in);
+        int N = scanner.nextInt();
+        int M = scanner.nextInt();
 
-        long[] A = new long[N];
-        st = new StringTokenizer(br.readLine());
+        int[] LN = new int[N];
+        int[] LM = new int[M];
+
+
         for (int i = 0; i < N; i++) {
-            A[i] = Long.parseLong(st.nextToken());
+            LN[i]=scanner.nextInt();
         }
 
-        long[] E = new long[M];
-        st = new StringTokenizer(br.readLine());
         for (int i = 0; i < M; i++) {
-            E[i] = Long.parseLong(st.nextToken());
+            LM[i]=scanner.nextInt();
         }
 
-        // Optimizar el % para no recalcular cada vez
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = 0; i < N; i++) {
-            long remaining = A[i];
-            for (int j = 0; j < M; j++) {
-                if (E[j] > 1) {
-                    remaining %= E[j];
-                } else {
-                    remaining = 0;
-                    break;
-                }
+        for(int i=0;i <N;i++){
+            int resultado=LN[i];
+            for(int j=0; j<M; j++){
+                resultado-=LM[j]*(resultado/LM[j]);
             }
-            sb.append(remaining).append(" ");
+            System.out.println(resultado);
         }
-
-        System.out.println(sb.toString().trim());
-
+        scanner.close();
     }
 }

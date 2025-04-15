@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="032a22f5-c3c7-44bb-ab49-37eb26802639" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/B-BatallaNaval.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-BatallaNaval/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-Alfajores/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A-Alfajores/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +26,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Users/Oscar/Documents/IT/TAP"
+    "last_opened_file_path": "D:/Users/Oscar/Documents/IT/TAP/TAP-2023"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
