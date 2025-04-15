@@ -24,7 +24,7 @@ https://codeforces.com/gym/104603
 | I        | Integracion regional     | ⬜ Pendiente|          |                                |
 | J        | Juglar en peligro        | ⬜ Pendiente|          |                                |
 | K        | Kitties                  | ⬜ Pendiente|          |                                |
-| L        | Local y visitante        | ⬜ Pendiente|          |                                |
+| L        | Local y visitante        | 🟩 Aceptado |          |                                |
 | M        | Multiples descargas      | ⬜ Pendiente|          |                                |
 | N        | Numero de la suerte      | ⬜ Pendiente|          |                                |
 
