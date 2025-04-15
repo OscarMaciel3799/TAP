@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class GameShow {
-    public static void main(String[] args){
+public class Main {
+    public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int cantValor= scanner.nextInt();
         int inicial=100;
@@ -12,5 +12,7 @@ public class GameShow {
             mayor=Math.max(mayor,inicial);
         }
         System.out.println(mayor);
+
+
     }
 }
