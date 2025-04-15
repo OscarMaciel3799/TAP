@@ -8,7 +8,7 @@ Los ejercicios están pensados para ser resueltos localmente y también pueden s
 
 ---
 Podes probar tus soluciones entrando al siguiente enlace:
-https://codeforces.com/group/YjFmW2O15Q/contest/102861
+https://codeforces.com/gym/104603
 ## ✅ Estado de los problemas
 
 | Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
