@@ -1,7 +1,9 @@
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Supera el tiempo permitido, buscar solucion más eficiente para grandes volumenes
 
         Scanner scanner=new Scanner(System.in);
         int N = scanner.nextInt();
@@ -20,11 +22,10 @@ public class Main {
         }
 
         for(int i=0;i <N;i++){
-            int resultado=LN[i];
             for(int j=0; j<M; j++){
-                resultado-=LM[j]*(resultado/LM[j]);
+                LN[i] %= LM[j];
             }
-            System.out.println(resultado);
+            System.out.println(LN[i]);
         }
         scanner.close();
     }
