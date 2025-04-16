@@ -13,7 +13,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/103960
 
 | Problema | Nombre                                         | Estado       | Lenguaje |Observaciones   |
 |----------|------------------------------------------------|--------------|----------|----------------|
-| A        | Acertando los Monotonos No Triviales Maximales | ⬜ Pendiente|          |                 |
+| A        | Acertando los Monotonos No Triviales Maximales | 🟩 Aceptado | Java     |                 |
 | B        | Brincando piedras                              | ⬜ Pendiente|          |                 |
 | C        | Cortes con Laser                               | ⬜ Pendiente|          |                 |
 | D        | Desplazamiento de Partículas                   | ⬜ Pendiente|          |                 |
