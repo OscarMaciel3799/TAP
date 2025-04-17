@@ -18,7 +18,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102861
 | C        | Concatenando Equipos     | ⬜ Pendiente|          |                                |
 | D        | Danza de Divisibilidad   | ⬜ Pendiente|          |                                |
 | E        | Empresa de Fiestas       | ⬜ Pendiente|          |                                |
-| F        | Fastminton               | ⬜ Pendiente|          |                                |
+| F        | Fastminton               | 🟩 Aceptado | Java     |                                |
 | G        | Game Show!               | 🟩 Aceptado | Java     |                                |
 | H        | Hangar del SBC           | ⬜ Pendiente|          |                                |
 | I        | Interactividad           | ⬜ Pendiente|          |                                |
