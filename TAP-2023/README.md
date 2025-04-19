@@ -14,8 +14,8 @@ https://codeforces.com/gym/104603
 | Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
 |----------|--------------------------|--------------|----------|--------------------------------|
 | A        | Alfajores                | 🟥 No Aceptado | Java  |                                |
-| B        | Blanquinegro             | ⬜ Pendiente|          |                                |
-| C        | Cromatico                | ⬜ Pendiente|          |                                |
+| B        | Blanquinegro             | 🟩 Aceptado | Java     |                                |
+| C        | Cromatico                | 🟩 Aceptado | Java     |                                |
 | D        | Decidiendo los problemas | ⬜ Pendiente|          |                                |
 | E        | Encontrando progresiones | ⬜ Pendiente|          |                                |
 | F        | Frıo en la playa         | ⬜ Pendiente|          |                                |
