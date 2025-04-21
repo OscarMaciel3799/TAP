@@ -16,10 +16,10 @@ https://codeforces.com/gym/105321
 | A        | Alto ta-te-ti              | ⬜ Pendiente|          |                                |
 | B        | Búsqueda del período       | ⬜ Pendiente|          |                                |
 | C        | Conociendo Ngipto          | ⬜ Pendiente|          |                                |
-| D        | Dupla                      | ⬜ Pendiente|          |                                |
+| D        | Dupla                      | 🟩 Aceptado | Java     |                                |
 | E        | Enfrentamiento final       | ⬜ Pendiente|          |                                |
-| F        | Fixture                    | ⬜ Pendiente|          |                                |
-| G        | Guirnaldas                 | ⬜ Pendiente|          |                                |
+| F        | Fixture                    | 🟩 Aceptado | Java     |                                |
+| G        | Guirnaldas                 | 🟩 Aceptado | Java     |                                |
 | H        | Hilo eléctrico para ganado | ⬜ Pendiente|          |                                |
 | I        | Innovaciones robóticas     | ⬜ Pendiente|          |                                |
 | J        | Jamás suman X              | ⬜ Pendiente|          |                                |
