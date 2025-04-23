@@ -11,19 +11,19 @@ Podes probar tus soluciones entrando al siguiente enlace:
 https://codeforces.com/group/YjFmW2O15Q/contest/101881
 ## ✅ Estado de los problemas
 
-| Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
-|----------|--------------------------|--------------|----------|--------------------------------|
-| A        | Ayudando al abuelo Laino | 🟩 Aceptado | Java     |                                |
-| B        | Encontrar el camino      | ⬜ Pendiente|          |                                |
-| C        | Correlaciones            | ⬜ Pendiente|          |                                |
-| D        | Dibujar triángulos       | ⬜ Pendiente|          |                                |
-| E        | Grumpy uncle             | ⬜ Pendiente|          |                                |
-| F        | ¡Felicidades, Fidel!     | ⬜ Pendiente|          |                                |
-| G        | Gestión eficiente        | ⬜ Pendiente|          |                                |
-| H        | Nuevo TAP                | ⬜ Pendiente|          |                                |
-| I        | Invasión de insectos     | ⬜ Pendiente|          |                                |
-| J        | Uniendo líneas           | ⬜ Pendiente|          |                                |
-| K        | Koalas                   | ⬜ Pendiente|          |                                |
-| L        | Leonardo de Pisa         | ⬜ Pendiente|          |                                |
+| Problema | Nombre                   | Estado          | Lenguaje | Observaciones                  |
+|----------|--------------------------|-----------------|----------|--------------------------------|
+| A        | Ayudando al abuelo Laino | 🟩 Aceptado    | Java     |                                |
+| B        | Encontrar el camino      | ⬜ Pendiente   |          |                                |
+| C        | Correlaciones            | ⬜ Pendiente   |          |                                |
+| D        | Dibujar triángulos       | ⬜ Pendiente   |          |                                |
+| E        | Grumpy uncle             | ⬜ Pendiente   |          |                                |
+| F        | ¡Felicidades, Fidel!     | 🟥 No Aceptado | Java     |                                |
+| G        | Gestión eficiente        | ⬜ Pendiente   |          |                                |
+| H        | Nuevo TAP                | ⬜ Pendiente   |          |                                |
+| I        | Invasión de insectos     | ⬜ Pendiente   |          |                                |
+| J        | Uniendo líneas           | ⬜ Pendiente   |          |                                |
+| K        | Koalas                   | ⬜ Pendiente   |          |                                |
+| L        | Leonardo de Pisa         | ⬜ Pendiente   |          |                                |
 
 
