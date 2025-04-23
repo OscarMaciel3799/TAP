@@ -11,19 +11,19 @@ Podes probar tus soluciones entrando al siguiente enlace:
 https://codeforces.com/group/YjFmW2O15Q/contest/101811
 ## ✅ Estado de los problemas
 
-| Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
-|----------|--------------------------|--------------|----------|--------------------------------|
-| A        | Audición                 | 🟩 Aceptado | Java     |                                |
-| B        | Bergantín                | ⬜ Pendiente|          |                                |
-| C        | Cebando mate             | ⬜ Pendiente|          |                                |
-| D        | Diferencia cambiaria     | ⬜ Pendiente|          |                                |
-| E        | Enseñando al nieto       | ⬜ Pendiente|          |                                |
-| F        | Festival                 | ⬜ Pendiente|          |                                |
-| G        | Grand Slam               | ⬜ Pendiente|          |                                |
-| H        | Horizonte Montañoso II   | ⬜ Pendiente|          |                                |
-| I        | Imitaciones              | ⬜ Pendiente|          |                                |
-| J        | Joaquín Jacinto          | ⬜ Pendiente|          |                                |
-| K        | Katsura da               | ⬜ Pendiente|          |                                |
-| L        | LOST                     | ⬜ Pendiente|          |                                |
+| Problema | Nombre                   | Estado          | Lenguaje | Observaciones                  |
+|----------|--------------------------|-----------------|----------|--------------------------------|
+| A        | Audición                 | 🟩 Aceptado    | Java     |                                |
+| B        | Bergantín                | ⬜ Pendiente   |          |                                |
+| C        | Cebando mate             | ⬜ Pendiente   |          |                                |
+| D        | Diferencia cambiaria     | ⬜ Pendiente   |          |                                |
+| E        | Enseñando al nieto       | 🟥 No Aceptado | Java     |                                |
+| F        | Festival                 | ⬜ Pendiente   |          |                                |
+| G        | Grand Slam               | ⬜ Pendiente   |          |                                |
+| H        | Horizonte Montañoso II   | ⬜ Pendiente   |          |                                |
+| I        | Imitaciones              | ⬜ Pendiente   |          |                                |
+| J        | Joaquín Jacinto          | ⬜ Pendiente   |          |                                |
+| K        | Katsura da               | ⬜ Pendiente   |          |                                |
+| L        | LOST                     | ⬜ Pendiente   |          |                                |
 
 
