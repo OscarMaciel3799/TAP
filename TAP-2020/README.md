@@ -24,6 +24,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102861
 | I        | Interactividad           | ⬜ Pendiente|          |                                |
 | J        | Juntando Datos           | ⬜ Pendiente|          |                                |
 | K        | K personas entre nosotros| ⬜ Pendiente|          |                                |
-| L        | Labaspar                 | ⬜ Pendiente|          |                                |
+| L        | Labaspar                 | 🟩 Aceptado | Java     |                                |
 | M        | Metralleta               | ⬜ Pendiente|          |                                |
-| N        | Numeros Multiplicados    | ⬜ Pendiente|          |                                |
+| N        | Numeros Multiplicados    | 🟩 Aceptado | Java     |                                |
+| O        | Omnibus Venusiano        | ⬜ Pendiente|          |                                |
