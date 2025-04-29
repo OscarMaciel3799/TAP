@@ -13,7 +13,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/101919
 
 | Problema | Nombre                   | Estado          | Lenguaje | Observaciones                  |
 |----------|--------------------------|-----------------|----------|--------------------------------|
-| A        | A guardar                | ⬜ Pendiente   |          |                                |
+| A        | A guardar                | 🟩 Aceptado	   | Java     |                                |
 | B        | Buenos amigos            | ⬜ Pendiente   |          |                                |
 | C        | Complicando contraseñas  | 🟩 Aceptado	   | Java     |                                |
 | D        | Descenso                 | ⬜ Pendiente   |          |                                |
