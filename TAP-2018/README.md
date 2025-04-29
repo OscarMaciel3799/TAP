@@ -14,7 +14,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/101919
 | Problema | Nombre                   | Estado          | Lenguaje | Observaciones                  |
 |----------|--------------------------|-----------------|----------|--------------------------------|
 | A        | A guardar                | 🟩 Aceptado	   | Java     |                                |
-| B        | Buenos amigos            | ⬜ Pendiente   |          |                                |
+| B        | Buenos amigos            | 🟩 Aceptado	   | Java     |                                |
 | C        | Complicando contraseñas  | 🟩 Aceptado	   | Java     |                                |
 | D        | Descenso                 | ⬜ Pendiente   |          |                                |
 | E        | Estacionamiento          | ⬜ Pendiente   |          |                                |
