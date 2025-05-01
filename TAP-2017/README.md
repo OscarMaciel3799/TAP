@@ -14,7 +14,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/101811
 | Problema | Nombre                   | Estado          | Lenguaje | Observaciones                  |
 |----------|--------------------------|-----------------|----------|--------------------------------|
 | A        | Audición                 | 🟩 Aceptado    | Java     |                                |
-| B        | Bergantín                | ⬜ Pendiente   |          |                                |
+| B        | Bergantín                | 🟩 Aceptado    | Java     |                               |
 | C        | Cebando mate             | ⬜ Pendiente   |          |                                |
 | D        | Diferencia cambiaria     | ⬜ Pendiente   |          |                                |
 | E        | Enseñando al nieto       | 🟥 No Aceptado | Java     |                                |
