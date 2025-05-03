@@ -17,7 +17,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/103960
 | B        | Brincando piedras                              | ⬜ Pendiente|          |                 |
 | C        | Cortes con Laser                               | ⬜ Pendiente|          |                 |
 | D        | Desplazamiento de Partículas                   | ⬜ Pendiente|          |                 |
-| E        | Eliminando Globos                              | ⬜ Pendiente|          |                 |
+| E        | Eliminando Globos                              | 🟩 Aceptado | Java     |                 |
 | F        | Fanático del Ahorcado Multidimensional         | ⬜ Pendiente|          |                 |
 | G        | Geometría Triangular                           | ⬜ Pendiente|          |                 |
 | H        | Habilitando el Movimiento                      | ⬜ Pendiente|          |                 |
