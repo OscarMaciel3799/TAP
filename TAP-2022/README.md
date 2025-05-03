@@ -22,7 +22,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/103960
 | G        | Geometría Triangular                           | ⬜ Pendiente|          |                 |
 | H        | Habilitando el Movimiento                      | ⬜ Pendiente|          |                 |
 | I        | Información Interceptada                       | 🟩 Aceptado | Java     |                 |
-| J        | Jugando 23                                     | ⬜ Pendiente|          |                 |
+| J        | Jugando 23                                     | 🟩 Aceptado | Java     |                 |
 | K        | Kalel, la rana saltarina                       | ⬜ Pendiente|          |                 |
 | L        | Listando caminos tediosos                      | ⬜ Pendiente|          |                 |
 | M        | Maratón de Rayuela                             | ⬜ Pendiente|          |                 |
