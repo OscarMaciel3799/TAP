@@ -15,10 +15,10 @@ https://codeforces.com/group/YjFmW2O15Q/contest/101881
 |----------|--------------------------|-----------------|----------|--------------------------------|
 | A        | Ayudando al abuelo Laino | 🟩 Aceptado    | Java     |                                |
 | B        | Encontrar el camino      | ⬜ Pendiente   |          |                                |
-| C        | Correlaciones            | ⬜ Pendiente   |          |                                |
+| C        | Correlaciones            | 🟩 Aceptado    | Java     |                                |
 | D        | Dibujar triángulos       | ⬜ Pendiente   |          |                                |
 | E        | Grumpy uncle             | ⬜ Pendiente   |          |                                |
-| F        | ¡Felicidades, Fidel!     | 🟥 No Aceptado | Java     |                                |
+| F        | ¡Felicidades, Fidel!     | 🟥 No Aceptado | Java     | Wrong answer on test 2         |
 | G        | Gestión eficiente        | ⬜ Pendiente   |          |                                |
 | H        | Nuevo TAP                | ⬜ Pendiente   |          |                                |
 | I        | Invasión de insectos     | ⬜ Pendiente   |          |                                |
