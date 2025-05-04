@@ -12,20 +12,20 @@ https://codeforces.com/gym/105321
 ## ✅ Estado de los problemas
 
 | Problema | Nombre                     | Estado       | Lenguaje | Observaciones                  |
-|----------|----------------------------|--------------|----------|--------------------------------|
-| A        | Alto ta-te-ti              | ⬜ Pendiente|          |                                |
-| B        | Búsqueda del período       | ⬜ Pendiente|          |                                |
-| C        | Conociendo Ngipto          | ⬜ Pendiente|          |                                |
-| D        | Dupla                      | 🟩 Aceptado | Java     |                                |
-| E        | Enfrentamiento final       | ⬜ Pendiente|          |                                |
-| F        | Fixture                    | 🟩 Aceptado | Java     |                                |
-| G        | Guirnaldas                 | 🟩 Aceptado | Java     |                                |
-| H        | Hilo eléctrico para ganado | ⬜ Pendiente|          |                                |
-| I        | Innovaciones robóticas     | ⬜ Pendiente|          |                                |
-| J        | Jamás suman X              | ⬜ Pendiente|          |                                |
-| K        | Kaleidoscopio tipográfico  | ⬜ Pendiente|          |                                |
-| L        | Logística lúdica           | ⬜ Pendiente|          |                                |
-| M        | Mercado de globos          | ⬜ Pendiente|          |                                |
-| N        | Nuevas dimensiones         | ⬜ Pendiente|          |                                |
+|----------|----------------------------|-----------------|----------|--------------------------------|
+| A        | Alto ta-te-ti              | ⬜ Pendiente   |          |                                |
+| B        | Búsqueda del período       | ⬜ Pendiente   |          |                                |
+| C        | Conociendo Ngipto          | ⬜ Pendiente   |          |                                |
+| D        | Dupla                      | 🟩 Aceptado    | Java     |                                |
+| E        | Enfrentamiento final       | ⬜ Pendiente   |          |                                |
+| F        | Fixture                    | 🟩 Aceptado    | Java     |                                |
+| G        | Guirnaldas                 | 🟩 Aceptado    | Java     |                                |
+| H        | Hilo eléctrico para ganado | ⬜ Pendiente   |          |                                |
+| I        | Innovaciones robóticas     | ⬜ Pendiente   |          |                                |
+| J        | Jamás suman X              | ⬜ Pendiente   |          |                                |
+| K        | Kaleidoscopio tipográfico  | 🟥 No Aceptado | Java     |  Wrong answer on test 9        |
+| L        | Logística lúdica           | ⬜ Pendiente   |          |                                |
+| M        | Mercado de globos          | ⬜ Pendiente   |          |                                |
+| N        | Nuevas dimensiones         | ⬜ Pendiente   |          |                                |
 
 
