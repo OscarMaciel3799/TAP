@@ -14,7 +14,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102363
 | Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
 |----------|--------------------------|--------------|----------|--------------------------------|
 | A        | Abedul                   | 🟩 Aceptado | Java     |                                |
-| B        | Bancos y guardias        | ⬜ Pendiente|          |                                |
+| B        | Bancos y guardias        | 🟩 Aceptado | Java     |                                |
 | C        | Cazando vampiros         | ⬜ Pendiente|          |                                |
 | D        | Dibujando cuadriláteros  | ⬜ Pendiente|          |                                |
 | E        | Exámenes                 | 🟩 Aceptado | Java     |                                |
