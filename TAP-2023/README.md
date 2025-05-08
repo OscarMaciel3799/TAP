@@ -13,7 +13,7 @@ https://codeforces.com/gym/104603
 
 | Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
 |----------|--------------------------|--------------|----------|--------------------------------|
-| A        | Alfajores                | 🟥 No Aceptado | Java  |                                |
+| A        | Alfajores                | 🟩 Aceptado | Java     |                                |
 | B        | Blanquinegro             | 🟩 Aceptado | Java     |                                |
 | C        | Cromatico                | 🟩 Aceptado | Java     |                                |
 | D        | Decidiendo los problemas | ⬜ Pendiente|          |                                |
