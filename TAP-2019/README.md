@@ -19,8 +19,8 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102363
 | D        | Dibujando cuadriláteros  | ⬜ Pendiente|          |                                |
 | E        | Exámenes                 | 🟩 Aceptado | Java     |                                |
 | F        | Fiesta en América        | ⬜ Pendiente|          |                                |
-| G        | Guerra mafiosa           | ⬜ Pendiente|          |                                |
+| G        | Guerra mafiosa           | 🟩 Aceptado | Java     |                                |
 | H        | Hurgando                 | ⬜ Pendiente|          |                                |
 | I        | Inca-Máncora             | ⬜ Pendiente|          |                                |
 | J        | Juntando Roquefort       | ⬜ Pendiente|          |                                |
-| K        | Karaoke                  | ⬜ Pendiente|          |                                |
+| K        | Karaoke                  | 🟩 Aceptado | Java     |                                |
