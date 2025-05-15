@@ -20,7 +20,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102861
 | E        | Empresa de Fiestas       | ⬜ Pendiente|          |                                |
 | F        | Fastminton               | 🟩 Aceptado | Java     |                                |
 | G        | Game Show!               | 🟩 Aceptado | Java     |                                |
-| H        | Hangar del SBC           | ⬜ Pendiente|          |                                |
+| H        | Hangar del SBC           | 🟩 Aceptado | Java     |                                |
 | I        | Interactividad           | ⬜ Pendiente|          |                                |
 | J        | Juntando Datos           | ⬜ Pendiente|          |                                |
 | K        | K personas entre nosotros| ⬜ Pendiente|          |                                |
