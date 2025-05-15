@@ -13,7 +13,7 @@ https://codeforces.com/group/YjFmW2O15Q/contest/102861
 
 | Problema | Nombre                   | Estado       | Lenguaje | Observaciones                  |
 |----------|--------------------------|--------------|----------|--------------------------------|
-| A        | Album de Cartas          | ⬜ Pendiente|          |                                |
+| A        | Album de Cartas          | 🟩 Aceptado | Java     |                                |
 | B        | Batalla Naval            | 🟩 Aceptado | Java     |                                |
 | C        | Concatenando Equipos     | ⬜ Pendiente|          |                                |
 | D        | Danza de Divisibilidad   | ⬜ Pendiente|          |                                |
