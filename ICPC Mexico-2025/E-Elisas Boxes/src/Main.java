@@ -8,7 +8,7 @@ public class Main {
         int n = scanner.nextInt();
         int m = scanner.nextInt();
         int indice=-1;
-        List<Integer> boxes = new ArrayList();
+        List<Integer> boxes = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             int box = scanner.nextInt();
             boxes.add(box);
