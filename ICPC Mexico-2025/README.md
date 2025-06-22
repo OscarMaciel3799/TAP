@@ -1,4 +1,4 @@
-# 🇦🇷 **Torneo Argentino de Programación (TAP) 2024**
+# **2025 ICPC Gran Premio de Mexico 1ra Fecha**
 
 Este repositorio contiene los enunciados y el estado de las soluciones correspondientes.  
 Los problemas están ordenados por letra y acompañados por el estado de resolución.
@@ -10,7 +10,7 @@ Los ejercicios están pensados para ser resueltos localmente y también pueden s
 ---
 
 Podes probar tus soluciones entrando al siguiente enlace:
-https://codeforces.com/gym/105321
+https://codeforces.com/gym/105873
 
 ## ✅ Estado de los problemas
 
