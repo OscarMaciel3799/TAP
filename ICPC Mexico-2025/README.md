@@ -16,7 +16,7 @@ https://codeforces.com/gym/105873
 
 | Problema | Nombre                                            | Estado       | Lenguaje | Observaciones |
 | -------- | ------------------------------------------------- | ------------ | -------- | ------------- |
-| A        | Analysing Electrocardiograms                      | ⬜ Pendiente |          |               |
+| A        | Analysing Electrocardiograms                      | 🟩 Aceptado  | Java     |               |
 | B        | Buying Paint                                      | ⬜ Pendiente |          |               |
 | C        | Celayas New Sign                                  | ⬜ Pendiente |          |               |
 | D        | Delivering Orders                                 | ⬜ Pendiente |          |               |
