@@ -19,7 +19,7 @@ https://codeforces.com/gym/105873
 | A        | Analysing Electrocardiograms                      | 🟩 Aceptado  | Java     |               |
 | B        | Buying Paint                                      | ⬜ Pendiente |          |               |
 | C        | Celayas New Sign                                  | ⬜ Pendiente |          |               |
-| D        | Delivering Orders                                 | ⬜ Pendiente |          |               |
+| D        | Delivering Orders                                 | 🟩 Aceptado  | Python   |               |
 | E        | Elisas Boxes                                      | 🟩 Aceptado  | Java     |               |
 | F        | First Problem                                     | ⬜ Pendiente |          |               |
 | G        | Generating Polygons                               | ⬜ Pendiente |          |               |
@@ -27,6 +27,4 @@ https://codeforces.com/gym/105873
 | I        | ICPC Challenge                                    | ⬜ Pendiente |          |               |
 | J        | JuPaels Palindrome                                | ⬜ Pendiente |          |               |
 | K        | Killable Demon                                    | ⬜ Pendiente |          |               |
-| L        | Logística lúdica                                  | ⬜ Pendiente |          |               |
-| M        | Mercado de globos                                 | ⬜ Pendiente |          |               |
-| N        | La Vaca Saturno Saturnita vs Tung Tung Tung Sahur | ⬜ Pendiente |          |               |
+| L        | La Vaca Saturno Saturnita vs Tung Tung Tung Sahur | ⬜ Pendiente |          |               |
