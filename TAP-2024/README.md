@@ -13,7 +13,7 @@ https://codeforces.com/gym/105321
 
 | Problema | Nombre                     | Estado       | Lenguaje | Observaciones                  |
 |----------|----------------------------|-----------------|----------|--------------------------------|
-| A        | Alto ta-te-ti              | ⬜ Pendiente   |          |                                |
+| A        | Alto ta-te-ti              | 🟩 Aceptado    | Java     |                                |
 | B        | Búsqueda del período       | ⬜ Pendiente   |          |                                |
 | C        | Conociendo Ngipto          | ⬜ Pendiente   |          |                                |
 | D        | Dupla                      | 🟩 Aceptado    | Java     |                                |
