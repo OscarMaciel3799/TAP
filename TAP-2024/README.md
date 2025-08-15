@@ -14,7 +14,7 @@ https://codeforces.com/gym/105321
 | Problema | Nombre                     | Estado       | Lenguaje | Observaciones                  |
 |----------|----------------------------|-----------------|----------|--------------------------------|
 | A        | Alto ta-te-ti              | 🟩 Aceptado    | Java     |                                |
-| B        | Búsqueda del período       | ⬜ Pendiente   |          |                                |
+| B        | Búsqueda del período       | 🟩 Aceptado    | Java     |                                |
 | C        | Conociendo Ngipto          | ⬜ Pendiente   |          |                                |
 | D        | Dupla                      | 🟩 Aceptado    | Java     |                                |
 | E        | Enfrentamiento final       | ⬜ Pendiente   |          |                                |
