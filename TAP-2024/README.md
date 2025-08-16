@@ -22,10 +22,10 @@ https://codeforces.com/gym/105321
 | G        | Guirnaldas                 | 🟩 Aceptado    | Java     |                                |
 | H        | Hilo eléctrico para ganado | ⬜ Pendiente   |          |                                |
 | I        | Innovaciones robóticas     | ⬜ Pendiente   |          |                                |
-| J        | Jamás suman X              | ⬜ Pendiente   |          |                                |
+| J        | Jamás suman X              | 🟩 Aceptado    | Java     |                                |
 | K        | Kaleidoscopio tipográfico  | 🟥 No Aceptado | Java     |  Wrong answer on test 9        |
-| L        | Logística lúdica           | ⬜ Pendiente   |          |                                |
+| L        | Logística lúdica           | 🟩 Aceptado    | Java     |                                |
 | M        | Mercado de globos          | ⬜ Pendiente   |          |                                |
-| N        | Nuevas dimensiones         | ⬜ Pendiente   |          |                                |
+| N        | Nuevas dimensiones         | 🟩 Aceptado    | Java     |                                |
 
 
